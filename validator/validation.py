@@ -1,6 +1,6 @@
 import re
 from typing import Optional
-from pyutils.logger.log import Logger
+from pyutils.logger.logger import Logger
 
 
 class ValidationError(Exception):
