@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 from typing import Callable
-from pyutils.logger.log import Logger
+from pyutils.logger.logger import Logger
 
 
 class BaseErrorHandler(ABC):
